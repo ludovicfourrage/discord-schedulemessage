@@ -19,12 +19,12 @@ As a beta version, this is meant to be run locally (package it using pkg for exa
 ** NEVER PUBLISH TO GITHUB WITH YOUR CEDENTIALS STILL IN THE EXCEL FILE **
 
 # Usage:
-1- Write your message in Discord. Use a private message to a bot for example to make sure it is correctly formatted.
-2- Copy your message from the message window, after sending it to the bot.
-3- Paste your message in a simple text editor. For example [notepad++](https://notepad-plus-plus.org/downloads/).
-4- Any formatting would have been gone (bold, italic etc.. ) so follow the [Discord Markdown Documentation](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-) to re-apply it.
-5- Any embedded picture will need to be replaced with the actual link / url to the picture.
-6- Create a new row in the Excel file:
+1. Write your message in Discord. Use a private message to a bot for example to make sure it is correctly formatted.
+2. Copy your message from the message window, after sending it to the bot.
+3. Paste your message in a simple text editor. For example [notepad++](https://notepad-plus-plus.org/downloads/).
+4. Any formatting would have been gone (bold, italic etc.. ) so follow the [Discord Markdown Documentation](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-) to re-apply it.
+5. Any embedded picture will need to be replaced with the actual link / url to the picture.
+6. Create a new row in the Excel file:
    - Column A "posted": Leave empty. The utility will update this field automatically to "yes" when the message has been posted,
    - Column B: Name your message (for reference only, it won't appear in the scheduled message),
    - Column C: Your discord account username / email,
@@ -33,4 +33,3 @@ As a beta version, this is meant to be run locally (package it using pkg for exa
    - Column F: Discord Guild ID (also known as Server ID),
    - Column G: Discord Channel ID,
    - Column H "message": Copy and Paste the markdowned / formatted message content there.
-   - 
