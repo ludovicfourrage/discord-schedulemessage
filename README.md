@@ -29,7 +29,7 @@ As a beta version, this is meant to be run locally (package it using pkg for exa
    - Column B: Name your message (for reference only, it won't appear in the scheduled message),
    - Column C: Your discord account username / email,
    - Column D: Your discord account password,
-   - Column E: date and time the message should be sent in the format MM/DD/YYYY hh:mma,
+   - Column E: Date and time the message should be sent in the format MM/DD/YYYY hh:mma,
    - Column F: Discord Guild ID (also known as Server ID),
    - Column G: Discord Channel ID,
    - Column H "message": Copy and Paste the markdowned / formatted message content there.
